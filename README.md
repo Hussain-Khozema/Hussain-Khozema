@@ -3,4 +3,4 @@
 <!--
 **Hussain-Khozema/Hussain-Khozema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
-I am a motivated, hardworking individual and have a great passion for the field of information technology. I have a strong desire to learn, with an eagerness to accept challenges and explore various avenues. I am constantly looking for opportunities for growth where I can learn and apply new skills and gain experience while bringing outstanding dedication to the company.
+Over 8 years of programming experience and hands-on experience in various fields such as Machine Learning, Data Science, Database systems, Distributed systems, Cloud technologies and Full-Stack Development. I also have a demonstrated history of working in the information technology field, mainly in the services, e-commerce, and fintech industries. I have a very keen interest in this field and love to do what I do and am looking for new opportunities where I can learn and apply new skills as well as gain experience while bringing outstanding dedication to the company.
