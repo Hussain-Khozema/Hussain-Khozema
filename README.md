@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://hussainkheriwala.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=F59E0B&center=true&vCenter=true&width=640&lines=Teaching+LLMs+to+use+tools+%28without+breaking+things%29;Wiring+up+agents+with+LangGraph+%2B+MCP;Turning+messy+workflows+into+autonomous+agents;Humans+in+the+loop%2C+agents+doing+the+heavy+lifting;MSBA+%40+UCLA+Anderson+%C2%B7+Class+of+2026" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=F59E0B&center=true&vCenter=true&width=640&lines=Teaching+LLMs+to+use+tools+%28without+breaking+things%29;Turning+messy+workflows+into+autonomous+agents;Humans+in+the+loop%2C+agents+doing+the+heavy+lifting;MSBA+%40+UCLA+Anderson+%C2%B7+Class+of+2026" alt="Typing intro" />
   </a>
 </p>
 
