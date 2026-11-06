@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Los%20Angeles-CA-4c1d95?style=flat-square&logo=googlemaps&logoColor=f59e0b" alt="Los Angeles" />
   <img src="https://img.shields.io/badge/UCLA%20Anderson-MSBA%20'26-4c1d95?style=flat-square&logo=academia&logoColor=f59e0b" alt="UCLA Anderson MSBA 2026" />
-  <img src="https://img.shields.io/badge/10%2B%20years-writing%20code-4c1d95?style=flat-square&logo=git&logoColor=f59e0b" alt="10+ years writing code" />
 </p>
 
 <br />
