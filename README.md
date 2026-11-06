@@ -90,16 +90,6 @@ say_hi:     anytime, seriously
 
 <br />
 
-## `> git log --stats`
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/f59e0b/Hussain-Khozema" alt="Contribution graph" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hussain-Khozema&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8BA7&stroke=4C1D95" alt="Contribution streak" />
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:f59e0b,50:4c1d95,100:1e1b4b" />
