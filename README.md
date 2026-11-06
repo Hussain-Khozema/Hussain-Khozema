@@ -24,16 +24,20 @@
 
 ## `> whoami`
 
-I'm an **AI engineer** in Los Angeles, finishing my **MSBA at UCLA Anderson**. I've been writing code for over 10 years.
-Before that I spent three years as a software engineer on **ShopeePay** in Singapore, building payment flows, a promotions engine and reconciliation pipelines for hundreds of thousands of daily transactions.
+Hey, I'm Hussain 👋
 
-These days I build **LLM agents**: LangGraph runtimes with MCP tool routing, human-in-the-loop steps, sandboxed code execution and hybrid RAG.
+I've spent the last ten-plus years moving between **software engineering, AI, data science and data engineering**, and I still can't pick a favourite. Lately I'm hooked on agentic systems: getting models to think, reach for the right tools and actually get things done.
+
+A lot of what's on this profile started with *"huh, I wonder if I could build that."* Some of it turned into real projects, some is still a half-finished experiment, and I'm happy with both. The fun is in the building.
+
+When I'm away from the keyboard, I'm usually playing sports or talking myself into trying something new.
+
+Want to swap ideas, talk shop or just say hi? **Hit me up anytime.** I'm always up for a chat.
 
 ```yaml
-now:       AI Engineer Intern @ Skyworks Solutions (LA)
-before:    Software Engineer @ Monee / ShopeePay (Singapore)
-studying:  MSBA @ UCLA Anderson (Dec 2026), BEng CS @ NTU Singapore
-interests: [agentic AI, payments, data platforms, distributed systems]
+currently:  building agents (and breaking them on purpose)
+off_duty:   sports, new hobbies, the occasional rabbit hole
+say_hi:     anytime, seriously
 ```
 
 <br />
